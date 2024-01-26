@@ -17,5 +17,6 @@ https://www.youtube.com/watch?v=byHcYRpMgI4
 - Allows username and password entry
 - Minimize and close Window
 - Login Button which also closes Window
+- Obscures password entry for security reasons
 
 [Back to Top](#WPFLoginForm)
